@@ -15,4 +15,4 @@ Welcome to my little GitHub corner! I’m a Frontend Developer with **three year
 ### 📫 Contact Me:
 - **GitHub**: [v-jovan](https://github.com/v-jovan)
 - **LinkedIn**: [Jovan Vrhovac](https://www.linkedin.com/in/jovanvrhovac)
-- Status: Open for work
+- Status: Open to work
